@@ -13,11 +13,12 @@
 
 ## 关于我
 
-我是 MogroWang，**MogroWang Studio** 的主理人。
+我是 MogroWang，同时也是 **MogroWang Studio** 的创始人与主理人。
 
-我专注 <strong>本地优先（Local-first）</strong> 的工具：数据留在自己的设备上，断网也能完整使用，交互与视觉则向桌面级软件看齐。大部分产品用 **Vue 3 + TypeScript + Tauri 2** 构建，一套前端同时面向 Windows、macOS 与 Android，Rust 负责文件、设备与系统能力。
+我目前专注于开发 <strong>本地优先（Local-first）</strong> 的工具。大部分产品用 **Vue 3 + TypeScript + Tauri 2 + Rust** 的技术栈构建。
 
-写代码之外，也做游戏、网页，以及一点点设计。
+我承认 AI 的进步，也承认我的项目大多由 Vibe Coding 驱动。
+我的每个项目都在尽可能的人为干预设计层面，而代码实现层面确实大多由 AI 撰写。
 
 ## MogroWang Studio
 
