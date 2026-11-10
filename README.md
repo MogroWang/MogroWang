@@ -27,28 +27,28 @@
 
 | 项目 | 简介 | 技术栈 |
 | :--- | :--- | :--- |
-| **[Acta · 行记](https://github.com/MogroWangStudio/Acta)** | 本地优先的待办与笔记工具，支持多平台与文档导入导出 · [官网](https://acta.mogrowangstudio.top/) | Vue 3 · Tauri 2 · Capacitor |
-| **[FloePod · 浮匣](https://github.com/MogroWangStudio/FloePod)** | Windows 屏幕边缘的文件暂存工具，文件即取即用 · [官网](https://floepod.mogrowangstudio.top/) | Vue 3 · Rust · Tauri 2 |
-| **[Plainstruct · 素构](https://github.com/MogroWangStudio/Plainstruct)** | 本地优先的静态站点创建器，可视化搭建博客与文档站 · [官网](https://plainstruct.mogrowangstudio.top/) | Vue 3 · TypeScript · Tauri 2 |
-| **[Albumark · 辑印](https://github.com/MogroWangStudio/Albumark)** | 本地优先的图像批量水印与快速处理工具 | Vue 3 · Tauri 2 |
-| **[Collecout · 萃序](https://github.com/MogroWangStudio/Collecout)** | 把 Word、Excel 与纯文本萃成结构化的信息库 · [官网](https://collecout.mogrowangstudio.top/) | Vue 3 · TypeScript · Tauri 2 |
-| **[Synbackup · 同备](https://github.com/MogroWangStudio/Synbackup)** | USB 移动设备与本地文件夹的差异同步，先确认再动手 | Vue 3 · Rust · Tauri 2 |
-| **[Acta-Handy · 便易](https://github.com/MogroWangStudio/Acta-Handy)** | 为 Acta · 行记 提供桌面组件，随手处理待办与笔记 | Vue 3 |
+| **[Acta · 行记](https://github.com/MogroWangStudio/Acta)** | 本地优先的待办与笔记工具，支持多平台与文档导入导出 · [官网](https://acta.mogrowangstudio.top/) | Vue 3 · TypeScript<br>Tauri 2 + Rust · Capacitor |
+| **[FloePod · 浮匣](https://github.com/MogroWangStudio/FloePod)** | Windows 屏幕边缘的文件暂存工具，文件即取即用 · [官网](https://floepod.mogrowangstudio.top/) | Vue 3 · TypeScript<br>Tauri 2 + Rust |
+| **[Plainstruct · 素构](https://github.com/MogroWangStudio/Plainstruct)** | 本地优先的静态站点创建器，可视化搭建博客与文档站 · [官网](https://plainstruct.mogrowangstudio.top/) | Vue 3 · TypeScript<br>Tauri 2 + Rust · Tailwind CSS |
+| **[Albumark · 辑印](https://github.com/MogroWangStudio/Albumark)** | 本地优先的图像批量水印与快速处理工具 | Vue 3 · TypeScript<br>Tauri 2 + Rust · Capacitor |
+| **[Collecout · 萃序](https://github.com/MogroWangStudio/Collecout)** | 把 Word、Excel 与纯文本萃成结构化的信息库 · [官网](https://collecout.mogrowangstudio.top/) | Vue 3 · TypeScript<br>Tauri 2 + Rust · Capacitor |
+| **[Synbackup · 同备](https://github.com/MogroWangStudio/Synbackup)** | USB 移动设备与本地文件夹的差异同步，先确认再动手 | Vue 3 · TypeScript<br>Tauri 2 + Rust |
+| **[Acta-Handy · 便易](https://github.com/MogroWangStudio/Acta-Handy)** | 为 Acta · 行记 提供桌面组件，随手处理待办与笔记 | Vue 3 · TypeScript<br>Tauri 2 + Rust |
 
 ### 游戏
 
 | 项目 | 简介 | 技术栈 |
 | :--- | :--- | :--- |
-| **[ToLP · 光点之旅](https://github.com/MogroWangStudio/ToLP)** | 《光点之旅》的主存储库 | — |
-| **[TOLP-Launcher](https://github.com/MogroWangStudio/TOLP-Launcher)** | 为《光点之旅》开发的桌面启动器 | Vue 3 |
+| **[ToLP · 光点之旅](https://github.com/MogroWangStudio/ToLP)** | 《光点之旅》的主存储库 | GDevelop · HTML5 |
+| **[TOLP-Launcher](https://github.com/MogroWangStudio/TOLP-Launcher)** | 为《光点之旅》开发的桌面启动器 | Vue 3 · TypeScript<br>Tauri 2 + Rust |
 
 ### 网站与设计
 
-| 项目 | 简介 |
-| :--- | :--- |
-| **[mwsweb](https://github.com/MogroWangStudio/mwsweb)** | 工作室官方网站，收录软件、影像与摄影内容 |
-| **[MWSUI](https://github.com/MogroWangStudio/MWSUI)** | MWS 设计体系的组件调试台：单文件 HTML，可实时调参并导出配置 |
-| **IntroWeb 介绍页** | 各产品的一页式介绍站点：[Acta](https://github.com/MogroWangStudio/Acta-IntroWeb) · [FloePod](https://github.com/MogroWangStudio/FloePod-IntroWeb) · [Plainstruct](https://github.com/MogroWangStudio/Plainstruct-IntroWeb) · [Albumark](https://github.com/MogroWangStudio/Albumark-IntroWeb) · [Collecout](https://github.com/MogroWangStudio/Collecout-IntroWeb) · [Synbackup](https://github.com/MogroWangStudio/Synbackup-IntroWeb) |
+| 项目 | 简介 | 技术栈 |
+| :--- | :--- | :--- |
+| **[mwsweb](https://github.com/MogroWangStudio/mwsweb)** | 工作室官方网站，收录软件、影像与摄影内容 | — |
+| **[MWSUI](https://github.com/MogroWangStudio/MWSUI)** | MWS 设计体系的组件调试台：单文件 HTML，可实时调参并导出配置 | HTML · CSS<br>JavaScript |
+| **IntroWeb 介绍页** | 各产品的一页式介绍站点：[Acta](https://github.com/MogroWangStudio/Acta-IntroWeb) · [FloePod](https://github.com/MogroWangStudio/FloePod-IntroWeb) · [Plainstruct](https://github.com/MogroWangStudio/Plainstruct-IntroWeb)<br>[Albumark](https://github.com/MogroWangStudio/Albumark-IntroWeb) · [Collecout](https://github.com/MogroWangStudio/Collecout-IntroWeb) · [Synbackup](https://github.com/MogroWangStudio/Synbackup-IntroWeb) | HTML · CSS<br>JavaScript |
 
 ### 归档
 
@@ -77,8 +77,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=MogroWang&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&locale=cn&theme=tokyonight" />
-  <img alt="MogroWang 的 GitHub 统计" src="https://github-stats-extended.vercel.app/api?username=MogroWang&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&locale=cn&theme=default" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=MogroWang&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true&locale=cn&theme=tokyonight" />
+  <img alt="MogroWang 的 GitHub 统计" src="https://github-stats-extended.vercel.app/api?username=MogroWang&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true&locale=cn&theme=default" />
 </picture>
 <br />
 <picture>
